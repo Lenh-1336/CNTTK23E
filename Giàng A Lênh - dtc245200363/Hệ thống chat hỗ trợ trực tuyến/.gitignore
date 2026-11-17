@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.vs/
+.keys/
+backend/App_Data/admin-account.json
+backend/appsettings.Development.local.json
+
+# Khong dua cau hinh local len GitHub
+/backend/appsettings.json
+/backend/appsettings.Development.json
